@@ -1,0 +1,89 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+
+p {
+    text-align: center; font-style: italic;
+    color: white;
+}
+
+label {
+    display: block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 25px;
+    margin-right: auto;
+}
+
+form {
+    width: 45%;
+    max-width: 100%;
+    min-width: 300px;
+    margin: auto;
+    padding-bottom: 2em;
+    background-color: rgba(37, 15, 15, 0.35);
+    color: white;
+  }
+
+  body {
+    font-size: 13px;
+   
+    background-image: url(https://c1.wallpaperflare.com/preview/811/367/789/technology-computer-creative-design.jpg);
+  }
+
+  fieldset {
+    border: none;
+    padding: 2rem 0;
+
+  }
+
+  input, textarea {
+    margin: 5px 0 10px 0;
+    width: 96%;
+    min-height: 2em;
+   
+  }
+
+  .inline {
+    width: unset;
+    margin: auto;
+    vertical-align: middle;
+
+  }
+
+input[type="checkbox"] {
+margin: auto;
+line-height: normal;
+width: 20px;
+height: 20px;
+
+  }
+
+  input[type="radio"] {
+    width: 20px;
+    margin: auto;
+    height: 20px;
+
+  }
+
+  input[type="submit"] {
+    margin-left: 25px;
+    width: 93%;
+  }
+
+
+  .bottomm {
+    margin: 10px 0 5px 25px;
+  }
+
+
+  .width {
+    width: auto;
+ 
+  }
+
+  select {
+    margin: 5px 0 10px 0;
+    width: 97%;
+    min-height: 2em;
+  }
